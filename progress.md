@@ -1,7 +1,3 @@
-Here's the full English version of the post-processing scaling section, ready to drop into your README.
-
----
-
 ### Post-Processing Scaling Experiment
 
 After obtaining the raw LightGBM predictions, we attempted a simple linear scaling post-processing step to further reduce MAE.
